@@ -1,0 +1,4 @@
+package github.com/sjqtentacles/sml-shamir
+
+require {
+}
